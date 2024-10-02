@@ -157,7 +157,7 @@ The **Churn Analysis - Summary** dashboard provides a comprehensive overview of 
 3. **Churn by Payment Method and Contract Type**: This shows how the churn rate varies based on the payment method (e.g., credit card, bank withdrawal) and the contract type (monthly, yearly).
 4. **Churn by Geography**: A state-wise breakdown of churn, helping to pinpoint regions with higher churn rates.
 5. **Churn by Services**: Analysis of churn based on the services customers subscribe to, such as **Internet Service**, **Device Protection Plan**, etc.
-![Churn Analysis Summary](path_to_image_churn_analysis_summary)
+![Churn Analysis Summary](Images/Screenshot 2024-10-02 163105.png)
 
 ### Churn Prediction Dashboard
 The **Churn Prediction dashboard** visualizes the results of the machine learning model, showing the customers likely to churn based on various features. It also helps the business focus on retaining customers at risk.
@@ -166,7 +166,7 @@ The **Churn Prediction dashboard** visualizes the results of the machine learnin
 1. **Predicted Churner Profiles**: Displays predicted churners by demographic categories, such as gender, age group, tenure, and state.
 2. **At-Risk Customers**: A detailed table of customers predicted to churn. This table provides critical information such as Monthly Charges, Total Revenue, and Number of Referrals.
 3. **Filters**: Interactive filters for selecting customers by various attributes (e.g., contract type, state, services used) to drill down on insights.
-![Churn Prediction Dashboard](path_to_image_churn_prediction_dashboard)
+![Churn Prediction Dashboard](Images/Screenshot 2024-10-02 163128.png)
 
 ---
 ## Key Insights
