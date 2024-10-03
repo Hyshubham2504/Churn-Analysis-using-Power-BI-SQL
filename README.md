@@ -30,11 +30,6 @@ The dataset includes customer demographic information, services used, payment de
 
 ### ETL Process in SQL
 1. **Data Loading**: Imported the customer data from a CSV file into SQL Server using the import wizard, with transformations applied as needed for data consistency.
-    ```sql
-    BULK INSERT Sales_Data
-    FROM 'c:\sales_data.csv'
-    WITH (FIELDTERMINATOR = ',', ROWTERMINATOR = '\n');
-    ``` 
 
 2. **Data Cleaning and Transformation**: Removed null values and handled missing data using SQL's ISNULL function.
     ```sql
