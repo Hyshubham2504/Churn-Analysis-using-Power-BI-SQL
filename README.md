@@ -110,8 +110,6 @@ We used a **Random Forest** classifier to predict customer churn based on the fe
    - The feature importance plot was generated to analyze which features had the highest impact on customer churn predictions.
 
 ### Results:
-- **Confusion Matrix**:
-  ![Confusion Matrix](path_to_image1)
   
 - **Classification Report**:
   
@@ -145,6 +143,8 @@ These features played a crucial role in identifying customers likely to churn.
 ### Churn Analysis - Summary
 The **Churn Analysis - Summary** dashboard provides a comprehensive overview of customer churn across various dimensions such as demographics, services used, contract type, and geographic regions. This dashboard is crucial for understanding the historical patterns of customer churn and identifying key trends.
 
+<img width="800" alt="image" src="https://github.com/Hyshubham2504/Churn-Analysis-using-Power-BI-SQL/blob/main/Images/Churn%20Analysis%20Summary.png">
+
 #### Key Metrics:
 - **Total Customers**: 6,418
 - **New Joiners**: 411
@@ -157,16 +157,16 @@ The **Churn Analysis - Summary** dashboard provides a comprehensive overview of 
 3. **Churn by Payment Method and Contract Type**: This shows how the churn rate varies based on the payment method (e.g., credit card, bank withdrawal) and the contract type (monthly, yearly).
 4. **Churn by Geography**: A state-wise breakdown of churn, helping to pinpoint regions with higher churn rates.
 5. **Churn by Services**: Analysis of churn based on the services customers subscribe to, such as **Internet Service**, **Device Protection Plan**, etc.
-![Churn Analysis Summary](Images/Churn Analysis Summary.png)
 
 ### Churn Prediction Dashboard
 The **Churn Prediction dashboard** visualizes the results of the machine learning model, showing the customers likely to churn based on various features. It also helps the business focus on retaining customers at risk.
+
+<img width="800" alt="image" src="https://github.com/Hyshubham2504/Churn-Analysis-using-Power-BI-SQL/blob/main/Images/Screenshot%202024-10-02%20163105.png">
 
 #### Key Features:
 1. **Predicted Churner Profiles**: Displays predicted churners by demographic categories, such as gender, age group, tenure, and state.
 2. **At-Risk Customers**: A detailed table of customers predicted to churn. This table provides critical information such as Monthly Charges, Total Revenue, and Number of Referrals.
 3. **Filters**: Interactive filters for selecting customers by various attributes (e.g., contract type, state, services used) to drill down on insights.
-![Churn Prediction Dashboard](Images/Screenshot 2024-10-02 163128.png)
 
 ---
 ## Key Insights
