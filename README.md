@@ -142,8 +142,8 @@ These features played a crucial role in identifying customers likely to churn.
 
 ### Churn Analysis - Summary
 The **Churn Analysis - Summary** dashboard provides a comprehensive overview of customer churn across various dimensions such as demographics, services used, contract type, and geographic regions. This dashboard is crucial for understanding the historical patterns of customer churn and identifying key trends.
+<img width="800" alt="image" src="https://github.com/Hyshubham2504/Churn-Analysis-using-Power-BI-SQL/blob/main/Images/Screenshot%202024-10-02%20163105.png">
 
-<img width="800" alt="image" src="https://github.com/Hyshubham2504/Churn-Analysis-using-Power-BI-SQL/blob/main/Images/Churn%20Analysis%20Summary.png">
 
 #### Key Metrics:
 - **Total Customers**: 6,418
@@ -160,8 +160,8 @@ The **Churn Analysis - Summary** dashboard provides a comprehensive overview of 
 
 ### Churn Prediction Dashboard
 The **Churn Prediction dashboard** visualizes the results of the machine learning model, showing the customers likely to churn based on various features. It also helps the business focus on retaining customers at risk.
+<img width="800" alt="image" src="https://github.com/Hyshubham2504/Churn-Analysis-using-Power-BI-SQL/blob/main/Images/Churn%20Analysis%20Summary.png">
 
-<img width="800" alt="image" src="https://github.com/Hyshubham2504/Churn-Analysis-using-Power-BI-SQL/blob/main/Images/Screenshot%202024-10-02%20163105.png">
 
 #### Key Features:
 1. **Predicted Churner Profiles**: Displays predicted churners by demographic categories, such as gender, age group, tenure, and state.
